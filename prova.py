@@ -1,7 +1,7 @@
 # Preencha Informações básicas
-nome = "Seu Nome Completo Aqui"
-matricula = "12/345678"
-github = "@seu_usuario_github"
+nome = "Caetano Santos Lucio"
+matricula = "18/0144979"
+github = "@caeslucio"
 turma = "16h"  # ou "18h"
 
 # Faça 5 das 6 questões da prova. Você deve escolher explicitamente quais
